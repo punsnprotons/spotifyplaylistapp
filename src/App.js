@@ -5,7 +5,6 @@
 // contains a playlist 
 // contains add to playlist button 
 
-import logo from './logo.svg';
 import './App.css';
 import SearchBar from './components/SearchBar';
 import styles from './styles/App.module.css';
