@@ -8,8 +8,6 @@
 import logo from './logo.svg';
 import './App.css';
 import SearchBar from './components/SearchBar';
-import SearchResults from './components/SearchResults';
-import Playlist from './components/Playlist';
 import styles from './styles/App.module.css';
 
 

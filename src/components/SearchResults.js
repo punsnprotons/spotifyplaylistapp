@@ -4,7 +4,6 @@ import styles from '../styles/SearchResults.module.css';
 function SearchResults({results, onAddToPlaylist}){
     console.log('These are the search results')
     console.log(results)
-    const [playlist, setPlaylist] = useState([])
 
     
 
