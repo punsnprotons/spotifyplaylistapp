@@ -1,0 +1,47 @@
+.app {
+  background: linear-gradient(135deg, #2e1065 0%, #4c1d95 100%);
+  min-height: 100vh;
+  padding: 20px;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  color: white;
+  font-size: 2.5rem;
+  margin: 20px 0 40px;
+  text-align: center;
+}
+
+.title span {
+  color: #a78bfa;
+}
+
+.content {
+  display: flex;
+  width: 100%;
+  margin-top: 40px;
+  gap: 20px;
+}
+
+.column {
+  flex: 1;
+  background-color: rgba(15, 23, 42, 0.7);
+  border-radius: 8px;
+  padding: 20px;
+  min-height: 400px;
+}
+
+.columnTitle {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  color: white;
+}
